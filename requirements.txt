@@ -1,4 +1,5 @@
 streamlit
 openai
-azure-search-documents
 azure-core
+azure-search-documents
+azure-identity
